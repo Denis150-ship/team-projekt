@@ -4,15 +4,17 @@
 
 ## Section A
 
-(Dev A trägt sich hier ein)
+- Name: Drewis Dorner
+- Lieblingssprache: Rust
 
 ## Section B
 
-(Dev B trägt sich hier ein)
+Johannes 
+bisher noch keine gefunden 
 
 ## Section C
-
-(Dev C trägt sich hier ein)
+- Name: Marcel
+- Lieblingssprache: Python
 
 ## Section D
 

@@ -1,2 +1,15 @@
 # team-projekt
-team-projekt am 26.5.26
+
+Gemeinsames Übungs-Repo aus dem Git-Kurs.
+
+## Inhalt
+
+- (Inhalt folgt)
+
+## Team
+
+- Host
+
+## Kontakt
+
+- E-Mail: hostmail@example.com

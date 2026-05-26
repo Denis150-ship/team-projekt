@@ -1,15 +1,19 @@
-# team-projekt
+# Team-Workflow-Übung
 
-Gemeinsames Übungs-Repo aus dem Git-Kurs.
+Übungs-Repo aus der 45-Min-Gruppenübung „Feature-Workflow im Team".
 
-## Inhalt
+## Section A
 
-- (Inhalt folgt)
+(Dev A trägt sich hier ein)
 
-## Team
+## Section B
 
-- Host
+(Dev B trägt sich hier ein)
 
-## Kontakt
+## Section C
 
-- E-Mail: hostmail@example.com
+(Dev C trägt sich hier ein)
+
+## Section D
+
+(Dev D trägt sich hier ein)

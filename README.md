@@ -5,6 +5,7 @@
 ## Section A
 
 - Name: Drewis Dorner
+- Lieblingssprache: Rust
 
 ## Section B
 

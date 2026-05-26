@@ -17,4 +17,4 @@ bisher noch keine gefunden
 
 ## Section D
 
-(Dev D trägt sich hier ein)
+- Name: Arafet
